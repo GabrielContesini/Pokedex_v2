@@ -24,7 +24,7 @@ youtube: https://www.youtube.com/c/DevemDobro -- Mapa devweek
 
 ## 📝 Colaborar com o projeto:
 
-*Na bio do meu perfil, existe um button com meu email, toda colaboração e dica sera muito bem vinda ! 😊
+* Na bio do meu perfil, existe um button com meu email, toda colaboração e dica sera muito bem vinda ! 😊
 
 
 
