@@ -16,7 +16,7 @@ Projeto finalizado, bem vindas ideias novas !
 - [x] Tarefa 4
 - [x] Tarefa 5
 
-## 🤝 Maded by Gabriel Contesini with collaboration *Dev em Dobro
+## 🤝 Maded by Gabriel Contesini with collaboration Dev em Dobro
 
 youtube: https://www.youtube.com/c/DevemDobro -- Mapa devweek
 
